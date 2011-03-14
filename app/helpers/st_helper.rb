@@ -1,0 +1,2 @@
+module StHelper
+end
